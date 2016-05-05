@@ -1,0 +1,165 @@
+title: Общая теория PHP
+tool: php
+questions:
+
+  - text: Сколько типов данных есть в PHP?
+    level: J
+    tags: php
+    note:
+    comment: 8 + Callable.
+
+  - text: Что такое позднее статическое связывание (LSB)?
+    level: M
+    tags: oop, php
+    note:
+
+  - text: Что можно описывать в интерфейсах?
+    level: M
+    tags: oop, php
+    note: Спросить можно ли описывать private|protected|public. Можно ли описывать свойства.
+    comment: Можно описывать сигнатуры методов и константы.
+
+  - text: Что такое сборщик мусора?
+    level: S
+    tags: arc, gc, php
+    note: Спросить про ref_count, понятие циклических ссылок.
+    comment:
+
+  - text: Что можно указывать в TypeHint?
+    tags: php
+    level: J
+    note: Зависит от версии, 5 или 7.
+
+  - text: Что такое MethodChaining и как он используется?
+    tags: php, oop
+    level: M
+    note:
+
+  - text: Какие магические методы есть в языке? В чем зло?
+    tags: php, oop
+    level: J
+    note:
+    comment:
+
+  - text: Какие встроенные интерфейсы вы знаете?
+    tags: php
+    level: M
+    note:
+    comment:
+
+  - text: Зачем нужен PHPDOC и какие ключевые слова вы знаете?
+    tags: php
+    level: M
+    note:
+    comment:
+
+  - text: PHPDOC и качественное документирование кода.
+    level: M
+    note:
+    comment:
+
+  - text: Что такое профилирование. Как оно делается в PHP. Когда нужно использовать.
+    tags: profiling
+    level: S
+    note:
+    comment:
+
+  - text: Что такое PDO и когда следует использовать.
+    level: M
+    note:
+    comment:
+
+  - text: Различие между mod_php и FCGI. Принципы работы.
+    level: M
+    note:
+    comment:
+
+  - text: 'Встроенные интерфейсы: Traversable, ArrayAccess, IteratorAggregate и др.'
+    level: M
+    note:
+    comment:
+
+  - text: Знакомство как минимум с одним поддерживаемым и популярным MVC фреймворком.
+    level: M
+    note: Принципы фреймворка, основные компоненты, жизненный цикл запроса, работа с данными.
+    comment:
+
+  - text: Знакомство с 2-мя различными по архитектуре фреймворками.
+    level: S
+    note: Yii1, Yii2, Symfony2, Laravel, Zend
+    comment:
+
+  - text: Copy-on-write и как он влияет на память в PHP.
+    level: S
+    note:
+    comment:
+
+  - text: Что такое opcode. Зачем нужен, как получить, как читать.
+    level: S
+    note:
+    comment:
+
+  - text: Жизненный цикл PHP скрипта.
+    level: M
+    note:
+    comment:
+
+  - text: Autoload. Как работает и зачем нужен.
+    level: J
+    tags: php
+    note:
+    comment:
+
+  - text: Как передаются объекты? По ссылке или по значению.
+    level:
+    tags: php
+    note:
+    comment: По псевдо-ссылке.
+
+  - text: Что такое шаблонизаторы. Как они используются и зачем. (Smarty, Twig, native PHP).
+    level: J
+    tags: php, templates
+    note:
+    comment:
+
+  - text: Что такое mod_php, php-cli, php-fpm, php-cgi.
+    level: M
+    tags: php
+    note:
+    comment:
+
+  - text: Что такое автозагрузка классов и как она работает.
+    level: J
+    tags: php
+    note: Вспомнить про PSR-4.
+    comment:
+
+  - text: Что такое PSR и зачем он нужен.
+    level: J
+    tags: php, psr
+    note:
+    comment:
+
+  - text: Что такое рефлексия и зачем она нужна. Какие минусы ее использования.
+    level: M
+    tags: php, reflection
+    note:
+    comment:
+
+  - text:
+    level:
+    tags: php
+    note:
+    comment:
+
+  - text:
+    level:
+    tags: php
+    note:
+    comment:
+
+  - text:
+    level:
+    tags: php
+    note:
+    comment:

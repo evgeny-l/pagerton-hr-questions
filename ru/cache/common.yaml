@@ -1,0 +1,96 @@
+title: Работа с кешем
+questions:
+
+  - text: Что такое кеширование и зачем оно нужно?
+    level: J
+    tags: cache
+    note:
+    comment:
+
+  - text: Что такое TTL?
+    level: J
+    tags: cache
+    note:
+    comment: Time to live.
+
+  - text: По какому признаку браузер понимает, что страницу можно кешировать?
+    level: M
+    tags: cache
+    note:
+    comment:
+
+  - text: Как сделать так, чтобы браузер инвалидировал статические файлы (css, js), которые мы изменили на сервере?
+    level: J
+    tags: cache, practice
+    note:
+    comment: Использовать GET параметр связанный с UnixTime mtime файла или даже хеш.
+
+  - text: Какие кеширующие системы вы знаете?
+    level: J
+    tags: cache
+    note:
+    comment:
+
+  - text: Какие преимущества и недостатки есть у различных систем кеширования?
+    level: M
+    tags: cache
+    note: 'Кеши: файловый, в оперативной памяти, в персистентном хранилище и их гибриды.'
+    comment:
+
+  - text: Как измерять эффективность работы кеша?
+    tags: cache
+    level: M
+    note:
+    comment:
+
+  - text: Client-side кеширование. Как, когда, какие плюсы и минусы.
+    tags: javascript, cache
+    level: S
+    note:
+    comment:
+
+  - text: Техники работы с кешем (прогрев кеша, кеш-тегирование, SSI и т.д.).
+    level: S
+    tags: cache
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:

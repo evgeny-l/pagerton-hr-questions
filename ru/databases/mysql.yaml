@@ -1,0 +1,52 @@
+title: MySQL
+questions:
+
+  - text: Что такое транзакция. Как ее использовать в MySQL.
+    level: M
+    note:
+    comment:
+
+  - text: Способы хранения древовидных структур в SQL базах.
+    level: M
+    note:
+    comment:
+
+  - text: Базовые знания о хранимых процедурах, представлениях (view), триггерах в MySQL. Зачем нужны и когда используются.
+    level: M
+    note:
+    comment:
+
+  - text: Вложенные транзакции (как реализуются), уровни изоляции, блокировки.
+    level: S
+    note:
+    comment:
+
+  - text: Чем отличается MyISAM и InnoDB.
+    level: M
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

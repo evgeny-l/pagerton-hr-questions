@@ -1,0 +1,75 @@
+title: Composer
+tool: composer
+questions:
+
+  - text: Что такое Composer и зачем он нужен.
+    tags: php, composer
+    level: J
+    note:
+    comment:
+
+  - text: Чем отличается composer install и composer update.
+    tags: php, composer
+    level: M
+    note:
+    comment:
+
+  - text: Как сделать, чтобы сбрасывались кеши после composer update.
+    tags: php, composer
+    level: M
+    note:
+    comment:
+
+  - text: В чем отличие require и require-dev.
+    tags: php, composer
+    level: J
+    note:
+    comment:
+
+  - text:
+    tags: php, composer
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: php, composer
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: php, composer
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: php, composer
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: php, composer
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: php, composer
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: php, composer
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: php, composer
+    level:
+    note:
+    comment:

@@ -1,0 +1,49 @@
+title: Процесс разработки
+questions:
+
+  - text: Что такое Agile методология. Когда применять Scrum, а когда Kanban.
+    tags: agile
+    level: M
+    note:
+    comment:
+
+  - text: Методики проведения оценки задач.
+    level: S
+    note: T-shirts, StoryPoints, Hours, etc.
+    comment:
+
+  - text: NoEstimates разработка. Когда возможна, как использовать.
+    level: S
+    tags: no_esimates, bonus
+    note:
+    comment:
+
+  - text: Что такое CI/CD. Из каких стадий состоит. Зачем нужен.
+    level: S
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

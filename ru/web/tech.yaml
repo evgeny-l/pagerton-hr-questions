@@ -1,0 +1,80 @@
+title: Веб-технологии
+questions:
+
+  - text: Cookie. Как управлять и настраивать.
+    level: M
+    note: Domain, path, expires, http_only
+    comment:
+
+  - text: GET vs POST (RFC).
+    level: J
+    note: Принципиальные различия по RFC, технологические различия.
+    comment:
+
+  - text: API реализации в вебе.
+    level: J
+    note: SOAP, JSONP, REST.
+    comment:
+
+  - text: Google protobuf, apache thrift. Зачем и когда используются.
+    tags: bonus
+    level: S
+    note:
+    comment:
+
+  - text: Frontend vs Backend. Что за термины.
+    level: J
+    note:
+    comment:
+
+  - text: Persistent connections. Какие плюсы и минусы.
+    level: M
+    note:
+    comment:
+
+  - text: Клиент-серверная архитектура. Из чего состоит, как устроена, зачем нужна.
+    level: J
+    note:
+    comment:
+
+  - text: Long polling & Comet. Что такое и зачем используется.
+    level: M
+    note:
+    comment:
+
+  - text: TCP vs UDP.
+    level: M
+    note:
+    comment:
+
+  - text: Для чего нужен AJAX и как он работает.
+    level: M
+    note:
+    comment:
+
+  - text: Уметь настроить web сервер (apache, nginx) с нуля, в том числе и для работы с PHP интерпретатором.
+    tags: php, nginx, apache
+    level: M
+    note:
+    comment:
+
+  - text: Что такое HTTP?
+    level: J
+    tags: http, php
+    note: Из чего состоит запрос. Как загружаются и отправляются файлы. Для чего можно использовать.
+    comment:
+
+  - text: Что такое IP, порт, протокол, хост и сокет.
+    level: J
+    note:
+    comment:
+
+  - text: Что такое HTTP2 и зачем оно нужно?
+    level: S
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

@@ -1,0 +1,62 @@
+title: Тестирование ПО
+questions:
+
+  - text: Какие виды тестирования вы знаете?
+    tags: testing
+    level: J
+    note:
+    comment: Модульно, smoke-тестирование, интеграционное, функциональное. White|gray|black-box тестирование.
+
+  - text: Что такое модульное тестирование?
+    tags: tdd, unit_testing, testing
+    level: J
+    note:
+    comment:
+
+  - text: Что такое функциональное тестирование?
+    tags: testing
+    level: J
+    note:
+    comment:
+
+  - text: Mocks, Fixture, Stubs, Fakes, Dummies. В чем между ними разница?
+    tags: unit_testing, testing
+    level: M
+    note:
+    comment:
+
+  - text: Какие инструменты для проведения тестирования вы знаете?
+    tags: testing
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: testing
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: testing
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: testing
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:

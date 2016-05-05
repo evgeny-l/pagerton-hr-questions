@@ -1,0 +1,54 @@
+title: Общее понимание frontend-разработки
+questions:
+
+  - text: Что такое шаблонизаторы.
+    level: J
+    tags: templates
+    note:
+    comment:
+
+  - text: Что такое CSS-препроцессоры и зачем они нужны.
+    tags: less, sass, css
+    level: J
+    note:
+    comment:
+
+  - text: Что такое DOM.
+    level: J
+    note:
+    comment:
+
+  - text: Что такое семантическая разметка.
+    level: M
+    note:
+    comment:
+
+  - text: Кроссбраузерность и адаптивность.
+    level: J
+    note:
+    comment:
+
+  - text: Понимание парадигмы SinglePageApplication и способы ее реализации.
+    level: J
+    note:
+    comment:
+
+  - text: Знакомство с устройством и базовыми подходами, используемыми в популярных фреймворках для реализации MVC фронтэда.
+    level: S
+    note: AngularJS/backbone/Ember/ReactJS
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

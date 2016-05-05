@@ -1,0 +1,110 @@
+title: Безопасность в веб-приложениях
+questions:
+
+  - text: Авторизация и аутентификация. В чем разница и какие проблемы решает. Какие есть подходы.
+    tags: auth, security
+    level: J
+    note: Цифровая подпись, OAuth, Http basic auth, RBAC.
+    comment:
+
+  - text: SQL уязвимости.
+    tags: sql, security
+    level: J
+    note:
+    comment:
+
+  - text: XSS уязвимости.
+    tags: xss, security
+    level: J
+    note: Пассивные и активные.
+    comment:
+
+  - text: CSRF уязвимость.
+    tags: csrf, security
+    level: J
+    note: Спросить пример эксплуатации уязвимости.
+    comment:
+
+  - text: Что такое хеш-функции и зачем они нужны.
+    tags: hash, security
+    level: J
+    note: Обратимое и необратимое хеширование. Где применяется.
+    comment: Пароли, индексы.
+
+  - text: Что такое соль для хешей, зачем она нужна. Что такое коллизии хешей.
+    tags: hash, security
+    level: J
+    note:
+    comment:
+
+  - text: MitM. Понимание принципа и самые простые возможные реализации в web.
+    tags: mitm, security
+    level: M
+    note:
+    comment:
+
+  - text: SSRF (в том числе XXE). Понимание принципов.
+    tags: security
+    level: M
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:

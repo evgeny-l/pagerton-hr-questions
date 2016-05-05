@@ -1,0 +1,118 @@
+title: Общая теория программирования
+questions:
+
+  - text: Что такое событийно-ориентированное программирование? Где и как используется?
+    level: M
+    tags: javascript
+    note:
+    comment:
+
+  - text: Что такое Test Driven Development? Когда используется? Какие плюсы и минусы?
+    level: S
+    note:
+    comment:
+
+  - text: Что такое асинхронность и многопоточность?
+    level: M
+    tags: javascript
+    note:
+    comment:
+
+  - text: Замыкания. Что такое, как используется и зачем. В чем отличие от обычных функций.
+    level: M
+    tags: javascript, php
+    note:
+    comment:
+
+  - text: Что такое Big "O" notation, зачем она нужна и что она значит?
+    level: M
+    tags: algorithm
+    note:
+    comment:
+
+  - text: Что такое рекурсия, чем она плоха и когда без нее не обойтись?
+    level: M
+    note:
+    comment:
+
+  - text: Инкапсуляция, наследование, полиморфизм.
+    level: J
+    tags: oop
+    note:
+    comment:
+
+  - text: Абстрактные классы, интерфейсы. Какая между ними разница. Когда нужно применять и когда другое.
+    tags: oop
+    level:
+    note:
+    comment:
+
+  - text: Знание типов паттернов проектирования (поведенческие, порождающие, структурные).
+    level: M
+    note:
+    comment:
+
+  - text: Принцип DRY.
+    level: J
+    note:
+    comment:
+
+  - text: Что такое объектно-ориентированное программирование?
+    tags: oop
+    level:
+    note:
+    comment:
+
+  - text: Low coupling. Навык дать оценку степени связанности при беглом анализе кода.
+    tags:
+    level: M
+    note: Что является признами связанности (какие лексические структуры).
+    comment:
+
+  - text: GRASP. Понимание и умение использовать принципы.
+    tags:
+    level:
+    note:
+    comment:
+
+  - text: Что такое Domain Driven Development. Примеры применения.
+    tags:
+    level: S
+    note:
+    comment:
+
+  - text: Что такое спагетти-код.
+    tags:
+    level: J
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:

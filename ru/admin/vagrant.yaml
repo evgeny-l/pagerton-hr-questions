@@ -1,0 +1,37 @@
+title: Vagrant
+tool: vagrant
+questions:
+
+  - text: Что такое Vagrant и какую проблему он решает?
+    tags: vagrant
+    level: M
+    note:
+    comment:
+
+  - text: Как зайти в поднятую виртуальную машину?
+    tags: vagrant
+    level: M
+    note: vagrant ssh
+    comment:
+
+  - text: Как присоединиться к СУБД не заходя в виртуальную машину? Например при помощи GUI клиента.
+    tags: vagrant
+    level: M
+    note:
+    comment:
+
+  - text: Как зайти на http сервер, поднятый в виртуальной машине?
+    tags: vagrant
+    level: M
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

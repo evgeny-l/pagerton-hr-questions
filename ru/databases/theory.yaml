@@ -1,0 +1,94 @@
+title: Теория реляционных СУБД
+questions:
+
+  - text: Что такое СУБД.
+    level: J
+    note:
+    comment:
+
+  - text: Что такое SQL и NoSQL хранилища. Примеры, в чем разница, когда и что применять.
+    level: M
+    note:
+    comment:
+
+  - text: Виды JOIN.
+    level: J
+    note: LEFT, RIGHT, INNER, OUTER
+    comment:
+
+  - text: Базовый синтаксис. SELECT INSERT UPDATE REPLACE DELETE TRUNCATE CREATE TABLE
+    level: J
+    note:
+    comment:
+
+  - text: Чем отличаются виды INT (TinyInt, SmallInt, Int, BigInt). На что влияет unsigned.
+    level: J
+    note:
+    comment:
+
+  - text: Нормализация и денормализация. Основные понятия и предназначение.
+    level: J
+    note:
+    comment:
+
+  - text: Индексы простые. Что такое table full scan и почему его следует избегать.
+    level: J
+    note:
+    comment:
+
+  - text: Что такое составные индексы и как они работают.
+    level: M
+    note:
+    comment:
+
+  - text: Что такое избыточность индексов. Как ее избегать.
+    level: J
+    note:
+    comment:
+
+  - text: Что такое EXPLAIN и как его применять.
+    level: M
+    note:
+    comment:
+
+  - text: Чем хороши и плохи JOIN запросы. Когда их следует применять, а когда лучше их не использовать.
+    level: M
+    note:
+    comment:
+
+  - text: Зачем нужны внешние ключи. Как их использовать.
+    level: J
+    note:
+    comment:
+
+  - text: ACID. Понимание принципов.
+    level: M
+    tags: innodb, mysql
+    note:
+    comment:
+
+  - text: Table pages, row types (static vs dynamic), concurrency & deadlocks.
+    level: S
+    note:
+    comment:
+
+  - text: Что такое prepared statements и когда следует использовать.
+    level: M
+    tags: mysql
+    note:
+    comment:
+
+  - text: Что такое покрывающие индексы.
+    level: S
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

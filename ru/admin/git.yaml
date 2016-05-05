@@ -1,0 +1,54 @@
+title: GIT
+tool: git
+questions:
+
+  - text: VCS (GIT), зачем они нужны.
+    tags: vcs
+    level: J
+    note:
+    comment:
+
+  - text: VCS распределенная vs централизованная. Основные понятия (commit, pull, push, branch, rebase, reset).
+    level: J
+    note:
+    comment:
+
+  - text: Понятие ветки в GIT.
+    level: M
+    note:
+    comment: Указатель на коммит со всеми вытекающими.
+
+  - text: Что такое FastForward и когда он происходит?
+    level: M
+    note:
+    comment:
+
+  - text: Как откатить изменения в GIT в удаленном репозитории?
+    level: M
+    note: Отправленные в репозиторий или не отправленные.
+    comment: Понимание проблем rebase и reset после push в удаленный репозиторий.
+
+  - text: GitFlow
+    level: S
+    note: Понимание разных принципов управления процессом разработки в репозитории.
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

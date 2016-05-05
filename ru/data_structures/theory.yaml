@@ -1,0 +1,56 @@
+title: Теория структур данных
+questions:
+
+  - text: Bit, Byte, Hex, Bitmask.
+    level: M
+    note:
+    comment:
+
+  - text: Сколько байт надо, чтобы сохранить IPv4?
+    tags: practice
+    level: M
+    note: Проверка на понимание байтов и умение думать вообще.
+    comment: 4 байта. По одному байту на каждый октет. Стандартный объем для INT в MySQL, а также есть стандартные функции конвертации.
+
+  - text: PCRE. Навык писать и читать «регулярки». Навык их «не применять».
+    level: UJ
+    tags: pcre
+    note:
+    comment:
+
+  - text: Способы передачи и хранения структурированных данных. XML, JSON, PHP serialize, PHP export.
+    level: M
+    note:
+    comment:
+
+  - text: Структуры данных. linked list, queue, stack, hash table, tuple.
+    level: M
+    note: fifo, lifo
+    comment:
+
+  - text: Что такое массивы в программировании (например в С++, не в PHP), как осуществляется доступ к N элементу массива.
+    level: M
+    tags: php
+    note:
+    comment:
+
+  - text: Self-balancing деревья.
+    tags: indexes
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

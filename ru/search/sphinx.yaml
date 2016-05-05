@@ -1,0 +1,66 @@
+title: Sphinx search engine
+tool: sphinx
+questions:
+
+  - text: Понимание архитектуры Sphinx.
+    tags: sphinx
+    level: M
+    note: Индексы, демоны, конфиги, порядок получения данных.
+    comment:
+
+  - text: Когда следует использовать Sphinx (способность привести примеры и их ограничения).
+    level: M
+    tags: sphinx
+    note:
+    comment:
+
+  - text: Навык чтения и написания конфигов индексов Sphinx.
+    level: M
+    tags: sphinx
+    note:
+    comment:
+
+  - text: Delta-индексы и как они работают.
+    level: S
+    tags: sphinx
+    note:
+    comment:
+
+  - text: Realtime-индексы и как они работают.
+    level: S
+    tags: sphinx
+    note:
+    comment:
+
+  - text: SphinxQL что такое, зачем и как использовать.
+    level: M
+    tags: sphinx
+    note:
+    comment:
+
+  - text: Что такое морфологический и полнотекстовый поиск?
+    level: J
+    tags: sphinx
+    note:
+    comment:
+
+  - text: Что такое поиск с использованием синонимов?
+    level: M
+    tags: sphinx
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

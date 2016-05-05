@@ -1,0 +1,61 @@
+title: Unix/Linux системы и основы работы в консоли
+tool: nix
+questions:
+
+  - text: Bash и любой консольный редактор. Less, cat, grep, ls, pipelining, output buffers.
+    tags: unix, bash
+    level: M
+    note:
+    comment:
+
+  - text: CRON. Когда использовать. Какие ограничения.
+    tags: cron
+    level:
+    note: Как поставить крон на запуск каждые 30 секунд.
+    comment:
+
+  - text: SSH. Public & private keys. Использование, генерация и настройка.
+    tags: ssh, security
+    level: M
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

@@ -1,0 +1,99 @@
+title: Docker
+tool: docker
+questions:
+
+  - text: Зачем нужен Docker?
+    tags: docker
+    level: J
+    note:
+    comment:
+
+  - text: Архитектура Docker'a?
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: Чем отличается docker run от docker exec?
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: Знать значение флагов docker run -v, -p, -d, --rm; флаги docker exec -it.
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: Что такое Dockerfile?
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: Как собрать новый контейнер с определенным названием (например hc/nginx).
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: Что делает docker pull, docker ps.
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: Что такое docker-compose и для чего он нужен.
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: docker rm, docker stop, docker kill, docker push, docker ps, docker images.
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: Как запустить контейнер "пробросив" конкретный порт.
+    tags: docker
+    level: M
+    note: Надо знать как это сделать 2 методами через команду docker и docker-compose.
+    comment:
+
+  - text: Как работает связи между контейнерами.
+    tags: docker
+    level: M
+    note: --links или как ещё можно организовать коммуникацию между контейнереами
+    comment:
+
+  - text: Как осуществляется версионирование контейнеров.
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: Как попасть в ssh уже запущенного контейнера?
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: Как запустить на 1 локальной машине 2 инстанса с MySQL. Как вы к ним будете обращаться из других контейнеров?
+    tags: docker, practice
+    level:
+    note: Если придумали способ с --links - хорошо, а как без него
+    comment:
+
+  - text: Вы собрали вы контейнер с названием hc/nginx. Как его распространить между разработчиками?
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: docker
+    level:
+    note:
+    comment:

@@ -1,0 +1,67 @@
+title: Программная архитектура
+questions:
+
+  - text: ORM и ActiveRecord. В чем между ними различие и когда, что и как лучше использовать?
+    tags: orm
+    level: S
+    note:
+    comment:
+
+  - text: Что такое UML и зачем он нужен? Какие элементы UML вы знаете?
+    tags: uml
+    level: S
+    note:
+    comment:
+
+  - text: Почему Singleton это зло. Как с ними работать так, чтобы при этом они злом не были.
+    tags: oop
+    level: S
+    note:
+    comment:
+
+  - text: Что такое MVC архитектура и зачем она нужна?
+    tags: mvc
+    level: M
+    note: Спросить где располагается бизнес-логика и каким образом происходит передача данных между слоями. Допускается ли вызов методов в слое представления.
+    comment:
+
+  - text: Что такое "Разделение ответственности" (Separation of Concerns)?
+    level: M
+    note:
+    comment:
+
+  - text: Что такое Service-oriented architecture. Когда используется. Какие ограничения.
+    level: S
+    note:
+    comment:
+
+  - text: Разница между MVC, VC и MVP архитектурами.
+    tags: mvc
+    level: S
+    note:
+    comment:
+
+  - text: Dependency injection, registry, service locator, DI container и управление зависимостями.
+    level: S
+    note:
+    comment:
+
+  - text: Что такое балансирование нагрузки. Какие существуют подходы.
+    level: M
+    note:
+    comment:
+
+  - text: Что такое миграции БД. Способы реализации. Подводные камни.
+    level: M
+    note:
+    comment:
+
+  - text: Микросервисная архитектура. Зачем и когда использовать.
+    level: S
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
