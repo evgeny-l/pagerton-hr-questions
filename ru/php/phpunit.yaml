@@ -2,57 +2,57 @@ title: PHPUnit
 tool: phpunit
 questions:
 
-  - text:
+  - text: Что такое PHPUnit и зачем он нужен?
     tags: phpunit, php, unit_testing
-    level:
+    level: M
     note:
     comment:
 
-  - text:
+  - text: Что такое Test, TestSuite, assert?
     tags: phpunit, php, unit_testing
-    level:
+    level: M
     note:
     comment:
 
-  - text:
+  - text: Каков жизненный цикл для TestSuite?
     tags: phpunit, php, unit_testing
-    level:
+    level: S
+    note: setUp'ы и tearDown'ы.
+    comment:
+
+  - text: Что такое DataProvider и зачем он нужен?
+    tags: phpunit, php, unit_testing
+    level: M
     note:
     comment:
 
-  - text:
+  - text: Что такое покрытие кода, зачем оно нужно, как его получить и посмотреть, какое значение оптимально.
     tags: phpunit, php, unit_testing
-    level:
+    level: S
     note:
     comment:
 
-  - text:
+  - text: Как работать с зависимостями от внешних систем, например, файловой системы.
     tags: phpunit, php, unit_testing
-    level:
+    level: S
     note:
     comment:
 
-  - text:
+  - text: Как тестировать singleton'ы?
     tags: phpunit, php, unit_testing
-    level:
+    level: S
     note:
     comment:
 
-  - text:
+  - text: Как тестировать функции?
     tags: phpunit, php, unit_testing
-    level:
+    level: S
     note:
     comment:
 
-  - text:
+  - text: Что такое fixture и как их использовать?
     tags: phpunit, php, unit_testing
-    level:
-    note:
-    comment:
-
-  - text:
-    tags: phpunit, php, unit_testing
-    level:
+    level: S
     note:
     comment:
 

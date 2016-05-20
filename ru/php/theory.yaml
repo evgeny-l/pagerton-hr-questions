@@ -146,10 +146,10 @@ questions:
     note:
     comment:
 
-  - text:
-    level:
+  - text: Кто такой Расмус Лердорф?
+    level: S
     tags: php
-    note:
+    note: Серьезно, на удивление, мало кто знает. И никаких финских групп.
     comment:
 
   - text:
