@@ -1,0 +1,99 @@
+title: Docker
+tool: docker
+questions:
+
+  - text: Why do you need Docker?
+    tags: docker
+    level: J
+    note:
+    comment:
+
+  - text: Docker's architecture?
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: What's the difference between `docker run` and `docker exec`?
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: Explain commands: `docker run` `-v`, `-p`, `-d`, `--rm`; `docker exec -it`.
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: What is Dockerfile?
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: How to build a new container with a custom name (for example: `hc/nginx`)?
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: Explain commands: `docker pull`, `docker ps`.
+    tags: docker
+    level: M
+    note:
+    comment:
+
+  - text: What is `docker-compose` and why do you need it?
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: docker rm, docker stop, docker kill, docker push, docker ps, docker images.
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: How to run a container with a particular port?
+    tags: docker
+    level: M
+    note: You have to know how to do it with `docker` command and `docker-compose`.
+    comment:
+
+  - text: How does container communication work?
+    tags: docker
+    level: M
+    note: --links or other methods to organize communication between containers
+    comment:
+
+  - text: How does container versioning work?
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: How to ssh into a docker container?
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text: How to run 2 instances of MySQL on 1 local environment? How to communicate with them from other containers?
+    tags: docker, practice
+    level:
+    note: How can you do it without `--links`?
+    comment:
+
+  - text: You've just built a container `hc/nginx`. How can you ship it to developers?
+    tags: docker
+    level:
+    note:
+    comment:
+
+  - text:
+    tags: docker
+    level:
+    note:
+    comment:
