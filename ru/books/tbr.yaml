@@ -1,0 +1,68 @@
+title: Список полезных книг для разработчика
+questions:
+
+  - text: Цель. Процесс непрерывного совершенствования (Элия М. Гольдратт, Джеф Кокс)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/26994615/
+
+  - text: Критическая цепь (Элия М. Гольдратт)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/21211837/
+
+  - text: Идеальный программист. Как стать профессионалом разработки ПО (Роберт К. Мартин)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/7360633/
+
+  - text: Джоэл о программировании (Джоэл Х. Спольски)
+    level:
+    tags: books
+    note:
+    comment: http://www.joelonsoftware.com/
+
+  - text: Джоэл и снова о программировании (Джоэл Х. Спольски)
+    level:
+    tags: books
+    note:
+    comment: http://www.joelonsoftware.com/
+
+  - text: Чистый код: создание, анализ и рефакторинг. Библиотека программиста (Роберт К. Мартин)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/21916535/
+
+  - text: Совершенный код (Стив Макконнелл)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/5508646/
+
+  - text: Рефакторинг. Улучшение существующего кода (Мартин Фаулер, Кент Бек, Джон Брант, Уильям Апдайк, Дон Робертс, Эрих Гамма)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/1308678/
+
+  - text: Шаблоны корпоративных приложений (Мартин Фаулер, Дейвид Райс, Мэттью Фоммел, Эдвард Хайет, Роберт Ми, Рэнди Стаффорд)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/4884925/
+
+  - text: Приемы объектно-ориентированного проектирования. Паттерны проектирования (Эрих Гамма, Ричард Хелм, Ральф Джонсон, Джон Влиссидес)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/2457392/
+
+  - text: Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)
+    level:
+    tags: books
+    note:
+    comment: https://www.ozon.ru/context/detail/id/5322055/
