@@ -157,7 +157,7 @@ questions:
     tags: php
     note:
     comment:
-	
+
   - text: Можно ли в PHP к символьным строкам применить операции инкремента / декремента?
     level: J
     tags: php
