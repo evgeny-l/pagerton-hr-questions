@@ -1,0 +1,54 @@
+title: GIT
+tool: git
+questions:
+
+  - text: VCS (GIT) - why do you need them?
+    tags: vcs
+    level: J
+    note:
+    comment:
+
+  - text: VCS: comparison between centralized and distributed. Basic knowledge: commit, pull, push, branch, rebase, reset.
+    level: J
+    note:
+    comment:
+
+  - text: What is a `branch` in GIT?
+    level: M
+    note:
+    comment: Commit pointer etc.
+
+  - text: What does term `FastForward` mean? When does it happen?
+    level: M
+    note:
+    comment:
+
+  - text: How to revert changes in GIT remote repository?
+    level: M
+    note: pushed and not pushed
+    comment: Understanding `rebase` and `reset` problems after `push` in the remote repository
+
+  - text: GitFlow
+    level: S
+    note: Understanding different approaches to manage the development process in repository
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

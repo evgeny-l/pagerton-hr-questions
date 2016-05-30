@@ -1,0 +1,61 @@
+title: Unix/Linux системы и основы работы в консоли
+tool: nix
+questions:
+
+  - text: Bash and terminal editors. Less, cat, grep, ls, pipelining, output buffers.
+    tags: unix, bash
+    level: M
+    note:
+    comment:
+
+  - text: CRON. Whe you should use it? What are restrictions?
+    tags: cron
+    level:
+    note: How to set up cron task for each 30 minutes?
+    comment:
+
+  - text: SSH. Public & private keys. Usage, generation and setup.
+    tags: ssh, security
+    level: M
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:

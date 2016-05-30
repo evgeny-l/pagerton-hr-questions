@@ -1,0 +1,37 @@
+title: Vagrant
+tool: vagrant
+questions:
+
+  - text: What is `Vagrant` and what problem does it solve?
+    tags: vagrant
+    level: M
+    note:
+    comment:
+
+  - text: How do you login into running virtual machine?
+    tags: vagrant
+    level: M
+    note: vagrant ssh
+    comment:
+
+  - text: How do you connect to DB without login into a virtual machine? For example, using any GUI client.
+    tags: vagrant
+    level: M
+    note:
+    comment:
+
+  - text: How do you connect to http server on running virtual machine?
+    tags: vagrant
+    level: M
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
