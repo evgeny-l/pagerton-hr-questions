@@ -1,8 +1,8 @@
 title: Программная архитектура
 questions:
 
-  - text: ORM и ActiveRecord. В чем между ними различие и когда, что и как лучше использовать?
-    tags: orm
+  - text: DataMapper и ActiveRecord. В чем между ними различие и когда, что и как лучше использовать?
+    tags: orm, ar
     level: S
     note:
     comment:
