@@ -1,0 +1,96 @@
+title: Working with cache
+questions:
+
+  - text: What is cache and why do you need it?
+    level: J
+    tags: cache
+    note:
+    comment:
+
+  - text: What is TTL?
+    level: J
+    tags: cache
+    note:
+    comment: Time to live.
+
+  - text: How does the browser understand that the page can be cached?
+    level: M
+    tags: cache
+    note:
+    comment:
+
+  - text: How to invalidate browser cache for static files (css, js) when we change files on server?
+    level: J
+    tags: cache, practice
+    note:
+    comment: Use GET parameter with UnixTime mtime for files or hashes
+
+  - text: What cache systems do you know?
+    level: J
+    tags: cache
+    note:
+    comment:
+
+  - text: What are advantages and disadvantages of different cache systems?
+    level: M
+    tags: cache
+    note: 'Cache: filesystem, RAM, persistent storage and hybrid systems.'
+    comment:
+
+  - text: How do you measure cache efficiency?
+    tags: cache
+    level: M
+    note:
+    comment:
+
+  - text: Client-side cache. How and when to use it? What are advantages and disadvantages?
+    tags: javascript, cache
+    level: S
+    note:
+    comment:
+
+  - text: What are common techniques for working with cache? (warmup, tags, SSI etc)
+    level: S
+    tags: cache
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
+
+  - text:
+    tags:
+    level:
+    note:
+    comment:
